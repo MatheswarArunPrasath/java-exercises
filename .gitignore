@@ -1,0 +1,22 @@
+# Build outputs
+target/
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+.vscode/
+.project
+.settings/
+.classpath
+.gradle/
+**/.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.env
